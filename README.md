@@ -1,2 +1,3 @@
 # 2nd_repo
-this is my second repo
+this is my second repo.
+Aurhoe = Ayush rollins 
